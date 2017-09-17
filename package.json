@@ -1,0 +1,14 @@
+{
+  "name": "hvac_apis",
+  "version": "1.0.0",
+  "description": "APIs for 75F",
+  "main": "server.js",
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "elasticsearch": "^13.3.1",
+    "express": "^4.15.4",
+    "moment": "^2.18.1"
+  }
+}
